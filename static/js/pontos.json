@@ -1,0 +1,93 @@
+[
+	{
+		"Id": 1,
+        	"Latitude": -21.1343136,
+        	"Longitude": -44.2612798,
+		"Descricao": "Empório Del Rei"
+    },
+    {
+		"Id": 2,
+        	"Latitude": -21.1393033,
+        	"Longitude": -44.2599888,
+		"Descricao": "Scenario Chopperia"
+    },
+  	{
+		"Id": 3,
+    		"Latitude": -21.1381047,
+    		"Longitude": -44.2607954,
+		"Descricao": "Sabor do Espeto"
+  	},
+  	{
+		"Id": 4,
+    		"Latitude": -21.1335662,
+    		"Longitude": -44.255072,
+		"Descricao": "Bei Pub"
+  	},
+    {
+		"Id": 5,
+    		"Latitude": -21.1336475,
+    		"Longitude": -44.2603828,
+		"Descricao": "Kong Food Bar"
+  	},
+  	{
+		"Id": 6,
+    		"Latitude": -21.133735,
+    		"Longitude": -44.260517,
+		"Descricao": "Barteliê"
+  	},
+    {
+		"Id": 7,
+        	"Latitude": -21.1338001,
+        	"Longitude": -44.26087,
+		"Descricao": "Taberna do Omar"
+    },
+	{
+		"Id": 8,
+        	"Latitude": -21.128079,
+        	"Longitude": -44.24708199999998,
+		"Descricao": "Bar do Agostinho"
+    },
+	{
+		"Id": 9,
+        	"Latitude": -21.1380612,
+        	"Longitude": -44.26154919999999,
+		"Descricao": "Alambique Botequim"
+    },
+	{
+		"Id": 10,
+        	"Latitude": -21.1386733,
+        	"Longitude": -44.264519500000006,
+		"Descricao": "Bar Tia Maria II"
+    },
+	{
+		"Id": 11,
+        	"Latitude": -21.1377865,
+        	"Longitude": -44.26008260000003,
+		"Descricao": "Cantinho da Canja"
+    },
+	{
+		"Id": 12,
+        	"Latitude": -21.117382,
+        	"Longitude": -44.245215299999984,
+		"Descricao": "El Pirata Bar e Bilhar"
+    },
+	{
+		"Id": 13,
+        	"Latitude": -21.1123077,
+        	"Longitude": -44.2389398,
+		"Descricao": "Espeto KING"
+    },
+	{
+		"Id": 14,
+        	"Latitude": -21.1352552,
+        	"Longitude": -44.2617028,
+		"Descricao": "Bar Real"
+    },
+	{
+		"Id": 15,
+        	"Latitude": -21.136434,
+        	"Longitude": -44.258963,
+		"Descricao": "Obarlix Pizzaria e Chopperia"
+    }
+
+]

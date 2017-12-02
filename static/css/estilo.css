@@ -1,0 +1,96 @@
+/*Header*/
+.box{
+    background: #4a4468;
+    width: 100%;
+    height: 220px;
+}
+
+.box h1{
+    font-family: 'Indie Flower', cursive;
+    font-style: normal;
+    font-size: 60px;
+    color: #FFF;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 80px;
+}
+
+/*Menu com os Pubs*/
+.check_pubs h3{
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #4a4468;
+	font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.check_pubs form{
+    font-family: Georgia, "Time New Roman", serif;
+    background: #FFF;
+}
+
+.check_box input{
+    margin-top: 5px;
+    background: #FFF;
+}
+
+/*Escolha do metodo heutistico ou exato*/
+
+.metodo h3{
+	font-size: 18px;
+	line-height: 25px;
+	text-transform: uppercase;
+	color: #4a4468;
+	font-weight: bold;
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.metodo option{
+    padding: 7px 10px;
+}
+
+.metodo_box{
+    color: #4a4468;
+	background: #FFF;
+	font-family: Georgia, "Time New Roman", serif;
+	width: 100%;
+	height: 45px;
+	margin-top: 3px;
+	border-color: #4a4468;
+	border-width: 4px;
+	border-style: solid;
+	padding: 7px 40px;
+}
+
+#mapa{
+    margin-top: 40px;
+}
+
+.infoBox {
+    background-color: #FFF;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    border: 2px solid #3fa7d8;
+    border-radius: 3px;
+    margin-top: 10px
+}
+
+.infoBox p {
+    padding: 0 15px
+}
+
+.infoBox:before {
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid #3fa7d8;
+    top: -10px;
+    content: "";
+    height: 0;
+    position: absolute;
+    width: 0;
+    left: 138px }
+

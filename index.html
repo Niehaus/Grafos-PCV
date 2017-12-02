@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8" />
+        <title>Caixeiro Viajante</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="static/css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="static/css/reset.css">
+        <link rel="stylesheet" type="text/css" href="static/css/grid.css">
+        <link rel="stylesheet" type="text/css" href="static/css/estilo.css">
+    </head>
+ 
+    <body>
+
+        <section class="box">
+            <h1>Pub's em São João Del Rei</h1>
+        </section>
+        <section class="container">
+
+             <div class="grid-8 check_pubs">
+
+                 <h3>Pub's:</h3>
+
+                <form action="" class="check_box">
+
+                    <input type="checkbox" name="pubs" value="BeiPub">Bei Pub<br>
+                    <input type="checkbox" name="pubs" value="ScenarioChopperia">Scenario Chopperia<br>
+                    <input type="checkbox" name="pubs" value="EsmpórioDelRei">Esmpório Del Rei<br>
+                    <input type="checkbox" name="pubs" value="SabordoEspeto">Sabor do Espeto<br>
+                    <input type="checkbox" name="pubs" value="KongFoodBar">Kong Food Bar<br>
+                    <input type="checkbox" name="pubs" value="Batelie">Bateliê<br>
+                    <input type="checkbox" name="pubs" value="TabernaDoOmar">Taberna Do Omar<br>
+                    <input type="checkbox" name="pubs" value="BarDoAgostinho">Bar Do Agostinho<br>
+                    <input type="checkbox" name="pubs" value="AlambiqueButequim">Alambique Butequim<br>
+                    <input type="checkbox" name="pubs" value="BarTiaMariaII">Bar Tia Maria II<br>
+                    <input type="checkbox" name="pubs" value="Scenario">Scenario<br>
+                    <input type="checkbox" name="pubs" value="Scenario">Scenario<br>
+                    <input type="checkbox" name="pubs" value="Scenario">Scenario<br>
+                    <input type="checkbox" name="pubs" value="Scenario">Scenario<br>
+                    <input type="checkbox" name="pubs" value="Scenario">Scenario<br>
+                </form>
+            </div>
+
+            <div class="metodo grid-8 ">
+
+                <h3>Selecione o método:</h3>
+
+                <select class="metodo_box">
+
+			    	<option></option>
+		    		<option>Heurística</option>
+	    			<option>Exato</option>
+
+			    </select>
+            </div>
+
+        </section>
+
+    	<div id="mapa" style="height: 600px; width: 100%">
+        </div>
+
+	     <script src="static/js/jquery.min.js"></script
+
+         <!--Maps API Javascript -->
+         <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+
+         <!--Arquivo de inicialização do mapa-->
+	     <script src="static/js/mapa.js"></script>
+    </body>
+</html>
