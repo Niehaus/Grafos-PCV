@@ -1,4 +1,7 @@
+{%	extends "template.html" %}
+
 <!DOCTYPE html>
+{% block content %}
 <html lang="pt-br">
     <head>
         <meta charset="utf-8" />
@@ -10,7 +13,7 @@
         <link rel="stylesheet" type="text/css" href="static/css/grid.css">
         <link rel="stylesheet" type="text/css" href="static/css/estilo.css">
     </head>
- 
+
     <body>
 
         <section class="box">
@@ -67,5 +70,7 @@
 
          <!--Arquivo de inicialização do mapa-->
 	     <script src="static/js/mapa.js"></script>
+
     </body>
 </html>
+{% endblock %}
